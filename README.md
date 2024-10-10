@@ -1,1 +1,1 @@
-# Personal-website-with-Next-Js
+# NextJs-Personal-Website
